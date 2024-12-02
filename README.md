@@ -1,15 +1,14 @@
-- 🔭 komichi.app を開発中。 AIエージェントの研究を行っています。
-
-- 🌱 Expoを使ったアプリ開発について勉強中です。
-
+# 👋 Hi, I'm zacker 
+- 🔭 Developing [komichi.app](https://komichi.app). Researching AI agents
+- 🌱 Currently learning app development with Expo
 - 📫 [X](https://x.com/mskzacker), [Zenn](https://zenn.dev/dev_zacker), [note](https://note.com/zacker2010)
 
-# 🛠️ Skills:
+# 🛠️ Skills
 
-👨‍💻 Languages: Go, TypeScript, Python
-🎨 Frontend: Next.js, Expo
-💾 Database: MySQL
-☁️ Infrastructure: GCP, Docker
+👨‍💻 Languages: Go, TypeScript, Python  
+🎨 Frontend: Next.js, Expo  
+💾 Database: MySQL  
+☁️ Infrastructure: GCP, Docker  
 
 # GitHub Stats
 <div align="left"> 
