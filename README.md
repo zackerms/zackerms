@@ -1,16 +1,21 @@
-## Hi there 👋
+- 🔭 komichi.app を開発中。 AIエージェントの研究を行っています。
 
-<!--
-**zackerms/zackerms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Expoを使ったアプリ開発について勉強中です。
 
-Here are some ideas to get you started:
+- 📫 [X](https://x.com/mskzacker), [Zenn](https://zenn.dev/dev_zacker), [note](https://note.com/zacker2010)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🛠️ Skills:
+
+👨‍💻 Languages: Go, TypeScript, Python
+🎨 Frontend: Next.js, Expo
+💾 Database: MySQL
+☁️ Infrastructure: GCP, Docker
+
+# GitHub Stats
+<div align="left"> 
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=zackerms&theme=vue-dark&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zackerms&theme=vue-dark&layout=compact" />
+</div>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=zackerms)](https://github.com/zackerms/github-profile-trophy)
+
