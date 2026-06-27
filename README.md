@@ -1,4 +1,4 @@
-# Hi, I'm zacker 
+# zacker 
 - [X](https://x.com/zackerms)
 - [Zenn](https://zenn.dev/dev_zacker)
 - [note](https://note.com/zacker2010)
