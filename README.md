@@ -1,7 +1,7 @@
 # zacker 
 - [X](https://x.com/zackerms)
 - [Zenn](https://zenn.dev/dev_zacker)
-- [note](https://note.com/zacker2010)
+- [Hatena Blog](https://zackerms.hatenablog.com/)
 
 ## Portfolio
 
